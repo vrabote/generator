@@ -6,4 +6,4 @@
 * JavaScript, JSON
 
 ## Demo
-[htmlpreview.github.io](https://htmlpreview.github.io/?https://github.com/vrabote/generator/index.html)
+[htmlpreview.github.io](https://htmlpreview.github.io/?https://github.com/vrabote/blob/master/generator/index.html)
